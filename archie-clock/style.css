@@ -1,0 +1,70 @@
+body {
+  background-color: #1b4984;
+}
+
+.page {
+  width: 80%;
+  max-width: 960px;
+  margin: 50px;
+  text-align: center;
+  background-color: #58a3c2;
+  border-radius: 5px;
+  padding-bottom: 20px;
+}
+body {
+  font-family: 'Ranchers', sans-serif;
+  color: #f4c242;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+header {
+  font-size: 24px;
+  line-height: 48px;
+}
+h4 {
+  font-size: 21px;
+  font-family: 'Ranchers', sans-serif;
+}
+h4 #clock {
+  font-size: 36px;
+  display: block;
+  padding: 5px 0;
+  color: #1b4984;
+}
+
+h1, h2, h3, h6 {
+  font-family: 'Ranchers', sans-serif;
+  padding-top: 40px;
+  color: #f48942;
+}
+blockquote {
+  font: 'Open Sans', sans-serif;
+  margin: -80px 0 100px 0;
+  font-size: 30px;
+}
+
+blockquote:before { content: '"';}
+blockquote:after {content: '"';}
+
+#archie {
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 10px solid #f48942;
+}
+#wakeupTimeSelector, #lunchTimeSelector, #napTimeSelector {
+  padding: 5px 0;
+}
+#archieAdviceButton {
+  background-color: #f4c242;
+  width: 200px;
+  text-transform: uppercase;
+  font-family: 'Ranchers', sans-serif;
+  font-size: 18px;
+  color: #1b4984;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
